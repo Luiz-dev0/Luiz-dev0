@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Perfil de Patrick Luiz -->
 
-<!--
-**Luiz-dev0/Luiz-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou o Patrick Luiz</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desenvolvedor Front-End | 🚀 Apaixonado por Tecnologia e Inovação
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Sobre mim
+
+Sou um entusiasta da tecnologia, gosto de transformar ideias em interfaces modernas e funcionais.  
+Trabalho com desenvolvimento **Front-End**, criando experiências digitais interativas e acessíveis.  
+Meu foco atual é o aperfeiçoamento em **HTML**, **CSS** e **JavaScript**, além de explorar frameworks modernos.
+
+> 💡 *“A tecnologia move o mundo, e o código é o combustível.”*
+
+---
+
+### 🧠 Tecnologias que uso no dia a dia
+
+<p align="center">
+  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatrickLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLuiz&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+---
+
+<p align="center">✨ Sempre aprendendo. Sempre evoluindo. ✨</p>
