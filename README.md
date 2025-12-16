@@ -14,7 +14,7 @@
 - 🧩 Atuação **Full Stack** em aplicações modernas
 - ⚛️ **React.js** e **Next.js** para interfaces performáticas
 - 🧠 **TypeScript** e **Java** para código previsível e robusto
-- ☁️ Infraestrutura como código e containers
+- ☁️ **Infraestrutura e DevOps** com containers, automação e cloud
 - 🚀 Mentalidade voltada a boas práticas, automação e evolução constante
 
 ---
