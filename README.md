@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Patrick Luiz</h1>
+<h1 align="center"> Meu nome é Patrick Luiz</h1>
 
 <h3 align="center">💻 Desenvolvedor Full Stack • ⚙️ Sistemas Escaláveis & Cloud</h3>
 
@@ -14,7 +14,7 @@
 - 🧩 Atuação **Full Stack** em aplicações modernas
 - ⚛️ **React.js** e **Next.js** para interfaces performáticas
 - 🧠 **TypeScript** e **Java** para código previsível e robusto
-- ☁️ Infraestrutura como código e containers com **Docker**, **Kubernetes** e **Terraform**
+- ☁️ Infraestrutura como código e containers
 - 🚀 Mentalidade voltada a boas práticas, automação e evolução constante
 
 ---
