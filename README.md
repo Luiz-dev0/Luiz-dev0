@@ -1,30 +1,38 @@
-<h1 align="center">👋 Olá, sou Patrick Luiz</h1>
+<h1 align="center">👋 Olá, eu sou Patrick Luiz</h1>
+
+<h3 align="center">💻 Desenvolvedor Full Stack • ⚙️ Sistemas Escaláveis & Cloud</h3>
 
 <p align="center">
-  💻 Desenvolvedor Front-End | 🚀 Apaixonado por Tecnologia e Inovação
+  Desenvolvo soluções completas, do front ao back-end, com foco em arquitetura sólida,  
+  qualidade de código, escalabilidade e entrega contínua.
 </p>
 
 ---
 
-### 🌐 Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou um entusiasta da tecnologia, gosto de transformar ideias em interfaces modernas e funcionais.  
-Trabalho com desenvolvimento **Front-End**, criando experiências digitais interativas e acessíveis.  
-Meu foco atual é o aperfeiçoamento em **HTML**, **CSS** e **JavaScript**, além de explorar frameworks modernos.
-
-> 💡 *“A tecnologia move o mundo, e o código é o combustível.”*
+- 🧩 Atuação **Full Stack** em aplicações modernas
+- ⚛️ **React.js** e **Next.js** para interfaces performáticas
+- 🧠 **TypeScript** e **Java** para código previsível e robusto
+- ☁️ Infraestrutura como código e containers com **Docker**, **Kubernetes** e **Terraform**
+- 🚀 Mentalidade voltada a boas práticas, automação e evolução constante
 
 ---
 
-### 🧠 Tecnologias que uso no dia a dia
+### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/>
 </p>
 
 ---
 
-<p align="center">✨ Sempre aprendendo. Sempre evoluindo. ✨</p>
+<p align="center">
+  ✨ Código limpo, arquitetura consistente e soluções que escalam ✨
+</p>
